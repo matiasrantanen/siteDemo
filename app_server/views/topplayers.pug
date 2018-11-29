@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= 'Regular season top scoring players (points)'
+  ul
+    each winner in winners
+      li= winner.season + ': ' + winner.player + ' (' + winner.team + ') Score: ' + winner.score
+    a(href='/topplayers/add') Add a new top player
+
