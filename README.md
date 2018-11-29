@@ -1,4 +1,4 @@
-# SkillStack
+# NHL News
 
 URL: <a>https://1601551.azurewebsites.net</a>
 
