@@ -6,4 +6,4 @@ URL: <a>https://1601551.azurewebsites.net</a>
 
 A web application for students to track and share their progress in learning different programming languages.
 
-<img src="https://github.com/matiasrantanen/siteDemo/master/images/image1" width="600">
+<img src="https://github.com/matiasrantanen/siteDemo/images/image1" width="600">
