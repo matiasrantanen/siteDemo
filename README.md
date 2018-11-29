@@ -24,5 +24,5 @@ Users can also add new teams or players and fill in the right information in the
 <strong>Form for adding new Stanley Cup winner team</strong>
 <img src="https://github.com/matiasrantanen/siteDemo/blob/master/images/image4.PNG" width="600">
 
-<strong>Form for adding new top scoring player</strong>
+<strong>Form for adding new top scoring player</strong><br>
 <img src="https://github.com/matiasrantanen/siteDemo/blob/master/images/image6.PNG" width="600">
