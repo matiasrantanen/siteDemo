@@ -1,6 +1,6 @@
 # NHL News
 
-URL: <a>https://1601551.azurewebsites.net</a>
+URL: <a>https://rantanen.azurewebsites.net/</a>
 
 <strong>Description</strong>
 
